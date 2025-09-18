@@ -19,10 +19,10 @@
 - Тестирование и поиск багов на сайте raketacn.ru  
 - Оформление баг-репортов в Excel: [Посмотреть файл](web-testing/bugs.xlsx)  
 - Скриншоты найденных багов: 
-[Посмотреть в папке](web-testing/bug1.png)
-[Посмотреть в папке](web-testing/bug2.png)
-[Посмотреть в папке](web-testing/bug3_1.png)
-[Посмотреть в папке](web-testing/bug3_2.png)
+- [Посмотреть в папке](web-testing/bug1.png)
+- [Посмотреть в папке](web-testing/bug2.png)
+- [Посмотреть в папке](web-testing/bug3_1.png)
+- [Посмотреть в папке](web-testing/bug3_2.png)
 
 ---
 
