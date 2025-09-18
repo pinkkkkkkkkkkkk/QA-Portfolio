@@ -44,6 +44,6 @@
 ---
 
 ## 📫 Контакты
-- Email: cvetkaa@inbox.ru  
+- Email: svetlanapolyanichka@yandex.ru 
 - Telegram: @dinozavr_rr  
 - HH: https://hh.ru/resume/1b542810ff0f6105db0039ed1f487447743947?from=share_ios 
