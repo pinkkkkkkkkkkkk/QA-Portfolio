@@ -17,13 +17,8 @@
 
 ### 1. [Web Testing: raketacn.ru](web-testing/)
 - Тестирование и поиск багов на сайте raketacn.ru  
-- Оформление баг-репортов в Excel: 
-- [Посмотреть файл](web-testing/bugs.xlsx)  
-- Скриншоты найденных багов: 
-- [Скриншот 1](web-testing/bug1.png)
-- [Скриншот 2](web-testing/bug2.png)
-- [Скриншот 3](web-testing/bug3_1.png)
-- [Скриншот 4](web-testing/bug3_2.png)
+- [Баг-репорты](web-testing/bugs.xlsx)  
+- [Скриншоты найденных багов](web-testing/screenshots/)
 
 ### 2. [API Testing: PetStore](api-testing-petstore/)
 Работа с Petstore API через Postman. Создание коллекций, тестирование эндпоинтов.
