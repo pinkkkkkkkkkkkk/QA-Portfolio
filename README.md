@@ -15,7 +15,7 @@
 ---
 ## 📂 Проекты
 
-### 1. Веб-тестирование: raketacn.ru
+### 1. [Web Testing: raketacn.ru](web-testing/)
 - Тестирование и поиск багов на сайте raketacn.ru  
 - Оформление баг-репортов в Excel: 
 - [Посмотреть файл](web-testing/bugs.xlsx)  
@@ -28,7 +28,8 @@
 ### 2. [API Testing: PetStore](api-testing-petstore/)
 Работа с Petstore API через Postman. Создание коллекций, тестирование эндпоинтов.
 - [Коллекция Postman](api-testing-petstore/PetStore.postman_collection.json)
-- [Скриншоты результатов](screenshots1)
+- Скриншоты результатов:
+- (screenshots1)
 - (screenshots2)
 - (screenshots3)
 - (screenshots4)
