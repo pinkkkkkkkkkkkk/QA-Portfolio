@@ -36,3 +36,4 @@ from student
 where stipend >= 100
 and city = 'Воронеж'
 
+
