@@ -20,12 +20,11 @@
 - Продемонстрирована работа с параметрами запросов, headers и body
 
 ## Файлы проекта:
-- [Коллекция Postman:]
-- (PetStore.postman_collection.json)
-- [Скриншоты результатов:]
-- (screenshots1)
-- (screenshots2)
-- (screenshots3)
-- (screenshots4)
+- [Коллекция Postman](PetStore.postman_collection.json)
+- Скриншоты результатов:
+- [Скриншот1](screenshots1)
+- [Скриншот2](screenshots2)
+- [Скриншот3](screenshots3)
+- [Скриншот4](screenshots4)
 
 > *Примечание: некоторые запросы возвращают 404 ошибку, так как тестирование проводилось на публичном демо-API.*
