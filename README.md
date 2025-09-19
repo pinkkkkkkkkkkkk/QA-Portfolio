@@ -29,10 +29,10 @@
 Работа с Petstore API через Postman. Создание коллекций, тестирование эндпоинтов.
 - [Коллекция Postman](api-testing-petstore/PetStore.postman_collection.json)
 - Скриншоты результатов:
-- (screenshots1)
-- (screenshots2)
-- (screenshots3)
-- (screenshots4)
+- (screenshots1.png)
+- (screenshots2.png)
+- (screenshots3.png)
+- (screenshots4.png)
 ---
 
 ## 👻 Навыки
