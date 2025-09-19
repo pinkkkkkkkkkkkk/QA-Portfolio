@@ -38,10 +38,7 @@
 - SQL-запросы с условиями WHERE и DISTINCT  
 - Проверка корректности данных  
 - [Посмотреть запросы](database-testing/queries.sql)
-- Скриншоты результатов:
-- [Скриншот 1](database-testing/query5_result.png)  
-- [Скриншот 2](database-testing/query9_result.png)  
-- [Скриншот 3](database-testing/query10_result.png)
+- [Скриншоты результатов](database-testing/screenshots/)  
 
 ### 4. [Traffic Interception: Fiddler](traffic-interception-fiddler/)
 Перехват и модификация сетевого трафика с помощью Fiddler Classic. Демонстрация техники поиска уязвимостей типа "Изменение данных на стороне клиента".
