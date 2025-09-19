@@ -12,12 +12,12 @@
 
 ## Скриншоты
 
-![Баг 1](bug1.png)
+![Баг 1](screenshots/bug1.png)
 *Проблема с загрузкой файлов*
 
-![Баг 2](bug2.png) 
+![Баг 2](screenshots/bug2.png) 
 *Опечатка в тексте*
 
-![Баг 3](bug3_1.png) 
-![Баг 3](bug3_2.png) 
+![Баг 3](screenshots/bug3_1.png) 
+![Баг 3](screenshots/bug3_2.png) 
 *Неправильная нумерация*
