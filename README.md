@@ -39,9 +39,9 @@
 - Проверка корректности данных  
 - [Посмотреть запросы](database-testing/queries.sql)
 - Скриншоты результатов:
-- [Скриншот 1][query5_result.png](query5_result.png)  
-- [Скриншот 2][query9_result.png](query9_result.png)  
-- [Скриншот 3][query10_result.png](query10_result.png)  
+- [Скриншот 1](query5_result.png)  
+- [Скриншот 2](query9_result.png)  
+- [Скриншот 3](query10_result.png)  
 ---
 
 ## 👻 Навыки
