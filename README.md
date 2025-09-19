@@ -33,6 +33,15 @@
 - [Скриншот 2](api-testing-petstore/screenshots2.png)
 - [Скриншот 3](api-testing-petstore/screenshots3.png)
 - [Скриншот 4](api-testing-petstore/screenshots4.png)
+
+### 3. [Database Testing](database-testing/)
+- SQL-запросы с условиями WHERE и DISTINCT  
+- Проверка корректности данных  
+- [Посмотреть запросы](database-testing/queries.sql)
+- Скриншоты результатов:
+- [Скриншот 1](.png)
+- [Скриншот 2](.png)
+- [Скриншот 3](.png)
 ---
 
 ## 👻 Навыки
