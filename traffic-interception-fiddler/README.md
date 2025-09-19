@@ -21,8 +21,8 @@
 - Понимание клиент-серверной архитектуры.
 
 ## Скриншоты процесса:
-[Скриншот 1](traffic-interception-fiddler/scrin1.png)
-[Скриншот 2](traffic-interception-fiddler/scrin2.png)
-[Скриншот 3](traffic-interception-fiddler/scrin3.png)
+- [Скриншот 1](traffic-interception-fiddler/screenshots/scrin1.png)
+- [Скриншот 2](traffic-interception-fiddler/screenshots/scrin2.png)
+- [Скриншот 3](traffic-interception-fiddler/screenshots/scrin3.png)
 
 > **Примечание:** Работа проводилась в учебных целях.
