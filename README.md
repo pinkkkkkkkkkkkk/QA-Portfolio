@@ -25,6 +25,13 @@
 - [Скриншот 3](web-testing/bug3_1.png)
 - [Скриншот 4](web-testing/bug3_2.png)
 
+### 2. [API Testing: PetStore](api-testing-petstore/)
+Работа с Petstore API через Postman. Создание коллекций, тестирование эндпоинтов.
+- [Коллекция Postman](api-testing-petstore/PetStore.postman_collection.json)
+- [Скриншоты результатов](screenshots1)
+- (screenshots2)
+- (screenshots3)
+- (screenshots4)
 ---
 
 ## 👻 Навыки
