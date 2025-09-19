@@ -31,8 +31,7 @@
 - [Скриншоты результатов](api-testing-petstore/screenshots/)
 
 ### 3. [Database Testing](database-testing/)
-SQL-запросы с условиями WHERE и DISTINCT  
-Проверка корректности данных  
+SQL-запросы с условиями WHERE и DISTINCT. Проверка корректности данных.  
 - [Посмотреть запросы](database-testing/queries.sql)
 - [Скриншоты результатов](database-testing/screenshots/)  
 
