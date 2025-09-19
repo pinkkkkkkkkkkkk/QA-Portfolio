@@ -10,6 +10,6 @@
 Материалы проекта:  
 - [Файл с запросами (queries.sql)](queries.sql)  
 - Скриншоты:  
-- [Результат запроса 5](screenshots/query5_result.png)  
-- [Результат запроса 9](screenshots/query9_result.png)  
-- [Результат запроса 10](screenshots/query10_result.png)  
+- ![Результат запроса 5](screenshots/query5_result.png)  
+- ![Результат запроса 9](screenshots/query9_result.png)  
+- ![Результат запроса 10](screenshots/query10_result.png)  
