@@ -28,11 +28,7 @@
 ### 2. [API Testing: PetStore](api-testing-petstore/)
 Работа с Petstore API через Postman. Создание коллекций, тестирование эндпоинтов.
 - [Коллекция Postman](api-testing-petstore/PetStore.postman_collection.json)
-- Скриншоты результатов:
-- [Скриншот 1](api-testing-petstore/screenshots1.png)
-- [Скриншот 2](api-testing-petstore/screenshots2.png)
-- [Скриншот 3](api-testing-petstore/screenshots3.png)
-- [Скриншот 4](api-testing-petstore/screenshots4.png)
+- [Скриншоты результатов](api-testing-petstore/screenshots/)
 
 ### 3. [Database Testing](database-testing/)
 - SQL-запросы с условиями WHERE и DISTINCT  
