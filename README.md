@@ -41,7 +41,12 @@
 - Скриншоты результатов:
 - [Скриншот 1](database-testing/query5_result.png)  
 - [Скриншот 2](database-testing/query9_result.png)  
-- [Скриншот 3](database-testing/query10_result.png)  
+- [Скриншот 3](database-testing/query10_result.png)
+
+### 4. [Traffic Interception: Fiddler](traffic-interception-fiddler/)
+Перехват и модификация сетевого трафика с помощью Fiddler Classic. Демонстрация техники поиска уязвимостей типа "Изменение данных на стороне клиента".
+- [Описание проекта и шаги воспроизведения](traffic-interception-fiddler/)
+- [Скриншоты работы](traffic-interception-fiddler/screenshots/)
 ---
 
 ## 👻 Навыки
