@@ -22,9 +22,9 @@
 ## Файлы проекта:
 - [Коллекция Postman](PetStore.postman_collection.json)
 - Скриншоты результатов:
-- [Скриншот 1](api-testing-petstore/screenshots1.png)
-- [Скриншот 2](api-testing-petstore/screenshots2.png)
-- [Скриншот 3](api-testing-petstore/screenshots3.png)
-- [Скриншот 4](api-testing-petstore/screenshots4.png)
+- [Скриншот 1](screenshots/screenshots1.png)
+- [Скриншот 2](screenshots/screenshots2.png)
+- [Скриншот 3](screenshots/screenshots3.png)
+- [Скриншот 4](screenshots/screenshots4.png)
 
 > *Примечание: некоторые запросы возвращают 404 ошибку, так как тестирование проводилось на публичном демо-API.*
