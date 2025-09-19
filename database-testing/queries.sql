@@ -34,4 +34,5 @@ where rating >300
 select surname, name_, kurs
 from student 
 where stipend >= 100
-and city = 'Âîðîíåæ'
+and city = 'Воронеж'
+
