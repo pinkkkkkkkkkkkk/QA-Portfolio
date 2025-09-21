@@ -40,14 +40,14 @@
 
 В рамках проекта была составлена следующая тестовая документация:
 
-1.  **Чек-лист (`Habr_Registration_Checklist.xlsx`)**
+1.  **Чек-лист ([Habr_Registration_Checklist.xlsx](./Habr_Registration_Checklist.xlsx))**
     *   Содержит 63 проверки, сгруппированные по категориям.
     *   Результат: **59 проверок пройдено, 4 — не пройдено.**
 
-2.  **Тест-кейсы (`Habr_Registration_Test_Cases.xlsx`)**
+2.  **Тест-кейсы ([Habr_Registration_Test_Cases.xlsx](./Habr_Registration_Test_Cases.xlsx))**
     *   Содержит 33 тест-кейса с шагами, ожидаемым и фактическим результатом.
 
-3.  **Баг-репорты (`Habr_Registration_Bug_Reports.xlsx`)**
+3.  **Баг-репорты ([Habr_Registration_Bug_Reports.xlsx](./Habr_Registration_Bug_Reports.xlsx))**
     *   Содержит 4 оформленных отчета о дефектах.
 
 ## Результаты и выводы
@@ -68,6 +68,6 @@
 ## Используемые файлы
 
 В данном разделе проекта находятся следующие файлы:
-*   `Habr_Registration_Checklist.xlsx` — Чек-лист из 63 проверок.
-*   `Habr_Registration_Test_Cases.xlsx` — 33 тест-кейса.
-*   `Habr_Registration_Bug_Reports.xlsx` — 4 баг-репорта.
+*   [Habr_Registration_Checklist.xlsx](./Habr_Registration_Checklist.xlsx) — Чек-лист из 63 проверок.
+*   [Habr_Registration_Test_Cases.xlsx](./Habr_Registration_Test_Cases.xlsx) — 33 тест-кейса.
+*   [Habr_Registration_Bug_Reports.xlsx](./Habr_Registration_Bug_Reports.xlsx) — 4 баг-репорта.
