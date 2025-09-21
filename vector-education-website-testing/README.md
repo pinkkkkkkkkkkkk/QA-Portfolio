@@ -30,7 +30,7 @@
 
 В рамках проекта был составлен баг-репорт, содержащий 30 дефектов.
 
-**Баг-репорт (`Vector_Education_Bug_Reports.xlsx`)**
+**Баг-репорт ([Vector_Education_Bug_Reports.xlsx](./Vector_Education_Bug_Reports.xlsx))**
 *   Содержит описание каждого дефекта.
 
 **Ключевые выводы:**
